@@ -1,0 +1,18 @@
+Instructions on how to use git hub
+  commands
+    -git clone  <url>
+    -make changes to code
+    -git commit -am "<anything you want>" (explain more)
+    -git push
+      -enter username and password of git hub
+ Jorell's Instruction
+  1. Go to github.com and create an account
+  2. Go to profile
+      a.click REPOSITORY tab
+      b.Click green button NEW
+      c.Name repository and CHECK <Initialize this repository with a README>
+      d.Create 
+  3. Go to the repository, if not done so, click <create new file>
+      a.Name the file and end it with .java (Ex. sample1.java)
+      b.Scroll down and click commit
+  4.Go 
